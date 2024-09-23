@@ -8,3 +8,7 @@ This repository contains a JavaScript project that allows users to search for im
 - JavaScript <br>
 - Unsplash API <br>
 - HTML/CSS <br>
+
+![image alt](https://github.com/Yashpalsinh04/Image_Search_Engine/blob/3ff878e4c9a1768d3304ea5b2637f5dcd5695ce0/Screenshot1.png)
+![image alt](https://github.com/Yashpalsinh04/Image_Search_Engine/blob/3ff878e4c9a1768d3304ea5b2637f5dcd5695ce0/Screenshot2.png)
+![image alt](https://github.com/Yashpalsinh04/Image_Search_Engine/blob/3ff878e4c9a1768d3304ea5b2637f5dcd5695ce0/Screenshot3.png)
