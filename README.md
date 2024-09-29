@@ -4,7 +4,7 @@ This repository contains a JavaScript project that allows users to search for im
 - Real-time image search using Unsplash API <br>
 - Responsive design for an optimal experience across devices <br>
 - Dynamic rendering of search results with easy navigation
-# Technologies:
+# # Tech Stack:
 - JavaScript <br>
 - Unsplash API <br>
 - HTML/CSS <br>
